@@ -1,5 +1,5 @@
 # Menu_Pizzaria_C
-<h3>Trabalho de Programação em C. Este trabalho consiste em modelar e implementar um gerenciador de pizzaria.<h3>
+Trabalho de Programação em C. Este trabalho consiste em modelar e implementar um gerenciador de pizzaria.
 
 # Enunciado do Problema
 Uma pizzaria precisa controlar suas vendas, entender seu consumidor e realizar
